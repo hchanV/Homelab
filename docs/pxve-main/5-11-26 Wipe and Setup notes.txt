@@ -1,3 +1,0 @@
-## wiped SAMSUNG Disk
-## WDC disk is the proxmox disk
-## Confirmed that main server now boots into proxmox
