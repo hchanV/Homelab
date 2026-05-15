@@ -52,3 +52,13 @@ Stage absolutely everything in the repo
 git add -A
 git commit -m "Describe what changed"
 git push
+
+Rename a file or folder
+mv old-name new-name
+
+Delete a file
+rm filename.md
+
+Delete a folder
+
+rmdir folder-name
